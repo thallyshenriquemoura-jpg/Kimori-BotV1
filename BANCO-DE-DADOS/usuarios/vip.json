@@ -10,5 +10,17 @@
     "dias": 30,
     "save": 25,
     "infinito": false
+  },
+  {
+    "id": "559984811692@s.whatsapp.net",
+    "dias": 0,
+    "save": 25,
+    "infinito": true
+  },
+  {
+    "id": "553591179785@s.whatsapp.net",
+    "dias": 20,
+    "save": 25,
+    "infinito": false
   }
 ]

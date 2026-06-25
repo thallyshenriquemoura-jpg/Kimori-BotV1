@@ -3409,5 +3409,35 @@
         "historico": []
       }
     ]
+  },
+  {
+    "grupo": "120363334366838882@g.us",
+    "usuarios": [
+      {
+        "id": "5521964030241@s.whatsapp.net",
+        "saldo": 500,
+        "banco": 0,
+        "celular": null,
+        "bancoAtual": null,
+        "ultimoSalario": null,
+        "ultimoTrabalho": null,
+        "investimentos": {
+          "ativo": false,
+          "valor": 0,
+          "dataInicio": null,
+          "rendimento": 0
+        },
+        "emprestimo": {
+          "ativo": false,
+          "valor": 0,
+          "totalPagar": 0,
+          "parcelas": 0,
+          "parcelasPagas": 0,
+          "valorParcela": 0,
+          "proximaParcela": null
+        },
+        "historico": []
+      }
+    ]
   }
 ]
